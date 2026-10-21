@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sum-for/sum-for.vcxproj" Id="91bfe06e-ffe0-4ef6-88a3-22db076f1ca2" />
+</Solution>
